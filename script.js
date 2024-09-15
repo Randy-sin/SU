@@ -185,7 +185,7 @@ document.addEventListener('DOMContentLoaded', function() {
                     '<h4 class="blue-text">2. 促進娛樂與學術的結合</h4>' +
                     '<p>我們將策劃一系列創新活動，讓同學們在娛樂中找到學術的樂趣。我們將舉辦學科比賽、校內外聯合文化活動，以及創意學習工作坊，讓學生們在參與中激發創造力，同時加強對學科知識的理解和應用。</p>' +
                     '<h4 class="blue-text">3. 加強對外聯繫與合作</h4>' +
-                    '<p>Champions學生會將打破僅側重校內事務的傳統，積極促進對外交流與合作。我們將組織與其他學校的學術和文化交流活動，為同學們提供拓展視野、增強社會實踐能力的機會。同時，我們會與外部機構合作，引入更多升學和職業規劃指導，幫助同學們更好地為未來做準備。</p>' +
+                    '<p>Champions學生會將打破僅側重校內事務的傳統，積極促進對外交流與合作。我們將組織與其他學校的學術和文化交流活動，為同學們提供拓展視野、增強社會實踐能力的機會。同時，我們會與外部機構合作，引入更多升學和職業規劃指導，幫助同學們更好地為未來做準備</p>' +
                     '<h4 class="blue-text">4. 提升校園歸屬感與學生權益</h4>' +
                     '<p>我們將不斷完善校內設施，並在校園內推動更多關於學生權益的活動，使每一位同學都能感受到被重視和尊重。我們還將開展定期調查，傾聽同學們的需求與建議，確保學生會的每一項工作都切實服務於同學的利益。</p>' +
                     '<p><strong>Champions學生會將以<span class="blue-text">"探索Champions，成為Champions，超越Champions"</span>的精神，致力於在學術與娛樂中促進每位同學的成長，激發他們探索潛能、實現夢想並突破自我。</strong></p>';
@@ -250,8 +250,8 @@ document.addEventListener('DOMContentLoaded', function() {
                         <p><strong>時間安排：</strong></p>
                         <ul>
                             <li>上課前：宣傳、派發宣傳物資、廣播介紹午息活動。</li>
-                            <li>午息：舉辦午間旋律」，可以邀請老師或者同學，可以點歌亦可以坐着聽歌、聊天。如果有同學有興趣可以上去唱歌，一起帶動氣氛。同時在SAC可以獲得「Champions!免費即影即有體驗」、派發宣傳物品、發布寶遊戲的線索與點信息。</li>
-                            <li>放學後在���校門口宣傳，follow IG，發放傳物品（糖）。</li>
+                            <li>午息：舉辦午間旋律」，可以邀請老師或者同學，可以點歌亦可以坐着聽歌、聊天。如果有同學有興趣可以上去唱歌，一起帶動氣氛。同時在SAC可以獲得「Champions!免費即影即有體驗」、派發宣傳品、發布寶遊戲的線索與點信息。</li>
+                            <li>放學後在校門口宣傳，follow IG，發放傳物品（糖）。</li>
                         </ul>
                     </div>
                     <div class="event-card">
@@ -397,7 +397,7 @@ document.addEventListener('DOMContentLoaded', function() {
                     '<div class="member-name">5B 26 吳慧珍，5A 19 李詩凡</div>' +
                     '</div>' +
                     '<div class="member-card">' +
-                    '<div class="member-position">文書</div>' +
+                    '<div class="member-position">文</div>' +
                     '<div class="member-name">5B 14 廖梓鍵</div>' +
                     '</div>' +
                     '<div class="member-card">' +

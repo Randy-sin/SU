@@ -200,7 +200,8 @@ mark {
     z-index: -1;
 }
 
-/* 删除以下与语言切换相关的样式 */
+/* 删除与语言切换相关的样式 */
+/* 
 .language-switch,
 #langToggle,
 #langToggle span,
@@ -209,8 +210,9 @@ mark {
 #langToggle.english .lang-zh,
 #langToggle.english .lang-en,
 #langToggle:hover {
-    /* 这些样式可以完全删除 */
+    这些样式已被注释掉
 }
+*/
 
 /* 其他样式保持不变 */
 
