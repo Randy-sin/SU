@@ -397,7 +397,7 @@ document.addEventListener('DOMContentLoaded', function() {
                     '<div class="member-name">5B 26 吳慧珍，5A 19 李詩凡</div>' +
                     '</div>' +
                     '<div class="member-card">' +
-                    '<div class="member-position">文</div>' +
+                    '<div class="member-position">文書</div>' +
                     '<div class="member-name">5B 14 廖梓鍵</div>' +
                     '</div>' +
                     '<div class="member-card">' +
