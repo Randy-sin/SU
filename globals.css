@@ -1,71 +1,46 @@
-.footer-icon {
-  width: auto;  /* 允许宽度自动调整 */
-  height: 20px; /* 设置高度为20像素 */
-  object-fit: contain; /* 保持图片比例 */
+@media (max-width: 640px) {
+  html {
+    font-size: 14px;
+  }
+
+  .container {
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+
+  /* 优化按钮大小 */
+  .btn {
+    padding: 0.5rem 1rem;
+  }
+
+  /* 简化导航 */
+  .nav-menu {
+    display: none;
+  }
+
+  .mobile-menu-toggle {
+    display: block;
+  }
+
+  /* 优化聊天气泡在移动端的显示 */
+  .max-w-\[80\%\] {
+    max-width: 85%;
+  }
+
+  /* 增加聊天文本的可读性 */
+  .text-sm {
+    font-size: 0.9rem;
+    line-height: 1.4;
+  }
 }
 
-/* 删除整个 .school-logo 相关的样式块 */
-
-.contact-info {
-  margin-bottom: 15px;
-  text-align: center;
+/* 优化图片 */
+img {
+  max-width: 100%;
+  height: auto;
 }
 
-.contact-info p {
-  margin: 5px 0;
-}
-
-#contact {
-    padding: 20px;
-    background-color: #f9f9f9;
-    border-radius: 5px;
-    margin-top: 20px;
-}
-
-#contact h2 {
-    color: #333;
-    margin-bottom: 15px;
-}
-
-#contact .contact-info {
-    margin-top: 15px;
-}
-
-#contact .contact-info p {
-    margin: 5px 0;
-}
-
-.welfare-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-    gap: 15px;
-    margin: 20px 0;
-}
-
-.welfare-item {
-    background-color: #f0f0f0;
-    border-radius: 5px;
-    padding: 15px;
-    text-align: center;
-    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
-    transition: all 0.3s ease;
-    cursor: pointer;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    min-height: 80px;
-}
-
-.welfare-item span {
-    display: inline-block;
-    transition: transform 0.3s ease;
-}
-
-.welfare-item:hover {
-    background-color: #e0e0e0;
-    box-shadow: 0 4px 8px rgba(0,0,0,0.15);
-}
-
-.welfare-item:hover span {
-    transform: scale(1.05);
+/* 添加平滑滚动效果 */
+html {
+  scroll-behavior: smooth;
 }
