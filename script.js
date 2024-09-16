@@ -290,7 +290,7 @@ document.addEventListener('DOMContentLoaded', function() {
                         <p><strong>時間安排：</strong></p>
                         <ul>
                             <li>上課前：最終宣傳、派發宣傳物資。</li>
-                            <li>午息：在禮堂設置「Champions!攤位活動」，設置數學題目、中文詩詞、估歌仔，變成攤，例如搭幾張枱凳，開中央咪宣傳。參與的同學可以獲得「Champions!免費即影即有體驗」</li>
+                            <li>午息：在禮堂設置「Champions!攤位活動」，設置數學題目、中文詩詞、估歌仔，變成攤位，例如搭幾張枱凳，開中央咪宣傳。參與的同學可以獲得「Champions!免費即影即有體驗」</li>
                             <li>放學後：在學校門口宣傳，follow IG，發放宣傳物品（糖）。</li>
                         </ul>
                     </div>
