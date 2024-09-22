@@ -7,31 +7,6 @@
     padding-left: 1rem;
     padding-right: 1rem;
   }
-
-  /* 优化按钮大小 */
-  .btn {
-    padding: 0.5rem 1rem;
-  }
-
-  /* 简化导航 */
-  .nav-menu {
-    display: none;
-  }
-
-  .mobile-menu-toggle {
-    display: block;
-  }
-
-  /* 优化聊天气泡在移动端的显示 */
-  .max-w-\[80\%\] {
-    max-width: 85%;
-  }
-
-  /* 增加聊天文本的可读性 */
-  .text-sm {
-    font-size: 0.9rem;
-    line-height: 1.4;
-  }
 }
 
 /* 优化图片 */
@@ -44,3 +19,7 @@ img {
 html {
   scroll-behavior: smooth;
 }
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
