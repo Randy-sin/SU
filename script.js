@@ -196,18 +196,10 @@ document.addEventListener('DOMContentLoaded', function() {
                 <p>我們是一群充滿熱情和理想的學生，致力於為全體同學提供優質的服務，促進校園文化建設，豐富學生生活。</p>
                 <p class="slogan"><strong>我們的競選口號是：</strong></p>
                 <p class="slogan-highlight">「探索Champions，成為Champions，超越Champions」</p>
-                
-                <!-- 添加图片轮播 -->
-                <div class="image-carousel">
-                    <img src="Klss-ice-cream-image.jpg" alt="活動照片1" class="active">
-                    <img src="Klss-ice-cream-image.jpg" alt="活動照片2">
-                    <img src="Klss-ice-cream-image.jpg" alt="活動照片3">
-                    <div class="carousel-arrow left">&#10094;</div>
-                    <div class="carousel-arrow right">&#10095;</div>
                 </div>
                 
                 <h3 class="section-title">競選目標</h3>
-                <p>Champions學生會的核心競選目標是實現"娛樂與學術兼並"，為我校學生創造一個充滿活力、創新與支持的校園環境。我們相信，學術與娛樂並非對立，而是可以相輔相成，讓學生在輕鬆愉快的氛圍中，提升學習效果和全方位的成長</p>
+                <p>Champions學生會的核心競選目標是實現"娛樂與學術兼並"，為我校學生創造一個充滿活力、創新與支持的校園環境。我們相信，學術與娛樂並非對立，而是可以相輔相成，讓學生在輕鬆愉的氛圍中，提升學習效果和全方位的成長</p>
                 <h4 class="blue-text">1. 增強學術資源與支持</h4>
                 <p>我們將積極擴大學術資源，為同學們提供更豐富、更靈活的學習機會，包括與其他學校交換模擬考卷、設立"圖書館補習員"計劃，並引入"數學小鎮"活動，為常見學術問題提供實時解答，幫助同學們應對學習中的各種挑戰。</p>
                 <h4 class="blue-text">2. 促進娛樂與學術的結合</h4>
@@ -285,7 +277,7 @@ document.addEventListener('DOMContentLoaded', function() {
                     </div>
                     <div class="event-card">
                         <h3>10月7號 – 宣傳期第六天</h3>
-                        <p><strong>活動主題：</strong>「Champions!尋寶遊戲」（Champions! Treasure Hunt）</p>
+                        <p><strong>���動主題：</strong>「Champions!尋寶遊戲」（Champions! Treasure Hunt）</p>
                         <p><strong>時間安排：</strong></p>
                         <ul>
                             <li>上課前：宣傳、派發宣傳物資、重申尋寶遊戲的線索與起點信息（全校學生可以自由參與）。</li>
