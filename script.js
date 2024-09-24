@@ -411,7 +411,7 @@ document.addEventListener('DOMContentLoaded', function() {
                     '</div>' +
                     '<div class="member-card">' +
                     '<div class="member-position">外務副主席</div>' +
-                    '<div class="member-name">4D 24 吳煒樺</div>' +
+                    '<div class="member-name">4A 24 吳煒樺</div>' +
                     '</div>' +
                     '<div class="member-card">' +
                     '<div class="member-position">康樂（規劃）</div>' +
