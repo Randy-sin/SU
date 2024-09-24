@@ -208,7 +208,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 <p>Champions學生會將打破僅側重校內事務的傳統，積極促進對外交流與合作。我們將組織與其他學校的學術和文化交流活動，為同學們提供拓展視野、增強社會實踐能力的機會。同時，我們會與外部機構合作，引入更多升學和職業規劃指導，幫助同學們更好地為未來做準備</p>
                 <h4 class="blue-text">4. 提升校園歸屬感與學生權益</h4>
                 <p>我們將不斷完善校內設施，並在校園內推動更多關於學生權益的活動，使每一位同學都能感受到被重視和尊重。我們還將開展定期調查，傾聽同學們的需求與建議，確保學生會的每一項工作都切實服務於同學的利益。</p>
-                <p><strong>Champions學生會以<span class="blue-text">"探索Champions，成為Champions，超越Champions"</span>的精神，致力於在學術與娛樂中促進每位同學的成長，激發他們探索潛能、實現夢想並突破自我。</strong></p>
+                <p><strong>Champions學生會以<span class="blue-text">「探索Champions，成為Champions，超越Champions」</span>的精神，致力於在學術與娛樂中促進每位同學的成長，激發他們探索潛能、實現夢想並突破自我。</strong></p>
                 `;
             case 'news':
                 return '<h2><i class="fas fa-newspaper"></i> 最新消息</h2>' +
