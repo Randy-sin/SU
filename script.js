@@ -199,7 +199,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 </div>
                 
                 <h3 class="section-title">競選目標</h3>
-                <p>Champions學生會的核心競選目標是實現"娛樂與學術兼並"，為我校學生創造一個充滿活力、創新與支持的校園環境。我們相信，學術與娛樂並非對立，而是可以相輔相成，讓學生在輕鬆愉的氛圍中，提升學習效果和全方位的成長。</p>
+                <p>Champions學生會的核心競選目標是實現"娛樂與學術兼並"，為我校學生創造一個充滿活力、創新與支持的校園環境。我們相信，學術與娛樂並非對立，而是可以相輔相成，讓學生在輕鬆愉的氛圍中，提升學習效果和��方位的成長。</p>
                 <h4 class="blue-text">1. 增強學術資源與支持</h4>
                 <p>我們將積極擴大學術資源，為同學們提供更豐富、更靈活的學習機會，包括與其他學校交換模擬卷、設立"圖書館補習員"計劃，並引入"數學小鎮"活動，為常見學術問題提供實時解答，幫助同學們應對學習中的各種挑戰。</p>
                 <h4 class="blue-text">2. 促進娛樂與學術的結合</h4>
@@ -352,7 +352,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 `;
             case 'school-affairs':
                 return '<h2><i class="fas fa-school"></i> 校內事務</h2>' +
-                    '<p style="margin-bottom: 1.5em;">同學們應關心本校事務，學生會不僅是學生的代，也應積極參與學校事務。Champions抱持開放態度，不僅為學生發聲，還鼓勵大家親自參與，詳���下</p>' +
+                    '<p style="margin-bottom: 1.5em;">同學們應關心本校事務，學生會不僅是學生的代，也應積極參與學校事務。Champions抱持開放態度，不僅為學生發聲，還鼓勵大家親自參與，詳下</p>' +
                     '<h3 class="blue-text" style="margin-top: 1.5em; margin-bottom: 1em;">i) 多元活動、動靜皆宜</h3>' +
                     '<p style="margin-bottom: 1.5em;">舉辦不同課外活動，包括：</p>' +
                     '<ol style="margin-bottom: 1.5em;">' +
@@ -435,47 +435,47 @@ document.addEventListener('DOMContentLoaded', function() {
                 return '<h2><i class="fas fa-list"></i> 學生會名單</h2>' +
                     '<div class="members-grid">' +
                     '<div class="member-card">' +
-                    '<div class="member-position">主席</div>' +
+                    '<div class="member-position"><i class="fas fa-crown"></i> 主席</div>' +
                     '<div class="member-name">5B 18 冼星朗</div>' +
                     '</div>' +
                     '<div class="member-card">' +
-                    '<div class="member-position">內務副主席</div>' +
+                    '<div class="member-position"><i class="fas fa-user-tie"></i> 內務副主席</div>' +
                     '<div class="member-name">5B 19 施鈿熙</div>' +
                     '</div>' +
                     '<div class="member-card">' +
-                    '<div class="member-position">外務副主席</div>' +
+                    '<div class="member-position"><i class="fas fa-handshake"></i> 外務副主席</div>' +
                     '<div class="member-name">4A 24 吳煒樺</div>' +
                     '</div>' +
                     '<div class="member-card">' +
-                    '<div class="member-position">康樂（規劃）</div>' +
+                    '<div class="member-position"><i class="fas fa-gamepad"></i> 康樂（規劃）</div>' +
                     '<div class="member-name">5A 19 李詩凡<br>5B 26 吳慧珍</div>' +
                     '</div>' +
                     '<div class="member-card">' +
-                    '<div class="member-position">文書</div>' +
+                    '<div class="member-position"><i class="fas fa-pen"></i> 文書</div>' +
                     '<div class="member-name">5B 14 廖梓鍵</div>' +
                     '</div>' +
                     '<div class="member-card">' +
-                    '<div class="member-position">宣傳</div>' +
+                    '<div class="member-position"><i class="fas fa-bullhorn"></i> 宣傳</div>' +
                     '<div class="member-name">2A 17 林建希<br>2D 29 王雯雯<br>5A 17 林禮輝<br>5B 23 屈子强</div>' +
                     '</div>' +
                     '<div class="member-card">' +
-                    '<div class="member-position">福利</div>' +
+                    '<div class="member-position"><i class="fas fa-heart"></i> 福利</div>' +
                     '<div class="member-name">2D 32 周芷缘<br>5C 15 李家宏</div>' +
                     '</div>' +
                     '<div class="member-card">' +
-                    '<div class="member-position">財政</div>' +
+                    '<div class="member-position"><i class="fas fa-coins"></i> 財政</div>' +
                     '<div class="member-name">5B 34 鍾咏琳</div>' +
                     '</div>' +
                     '<div class="member-card">' +
-                    '<div class="member-position">四社聯繫</div>' +
+                    '<div class="member-position"><i class="fas fa-users"></i> 四社聯繫</div>' +
                     '<div class="member-name">5B 3 陳蔓涵</div>' +
                     '</div>' +
                     '<div class="member-card">' +
-                    '<div class="member-position">資與科技幹事</div>' +
+                    '<div class="member-position"><i class="fas fa-laptop-code"></i> 資訊與科技幹事</div>' +
                     '<div class="member-name">4B 18 吳澤璟</div>' +
                     '</div>' +
                     '<div class="member-card">' +
-                    '<div class="member-position">體育幹事</div>' +
+                    '<div class="member-position"><i class="fas fa-running"></i> 體育幹事</div>' +
                     '<div class="member-name">5B 25 胡俊賢</div>' +
                     '</div>' +
                     '</div>';
@@ -620,7 +620,7 @@ document.addEventListener('DOMContentLoaded', function() {
         return `距離開始還有${days}天${hours}時${minutes}分`;
     }
 
-    // 添加一个函数来更新所有倒计时
+    // 添加一个函��来更新所有倒计时
     function updateAllCountdowns() {
         const countdowns = document.querySelectorAll('.countdown');
         countdowns.forEach(countdown => {

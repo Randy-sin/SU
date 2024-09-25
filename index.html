@@ -34,6 +34,36 @@
         .email-link:hover {
             background-color: #0056b3;
         }
+        .members-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+            gap: 20px;
+            padding: 20px;
+        }
+        .member-card {
+            background-color: #f8f9fa;
+            border-radius: 10px;
+            padding: 15px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            transition: transform 0.3s ease;
+        }
+        .member-card:hover {
+            transform: translateY(-5px);
+        }
+        .member-position {
+            font-size: 1.1em;
+            font-weight: bold;
+            color: #007bff;
+            margin-bottom: 10px;
+        }
+        .member-name {
+            font-size: 1em;
+            color: #333;
+        }
+        .member-position i {
+            margin-right: 5px;
+        }
+        /* 移除 .main-position 相关样式 */
     </style>
 </head>
 <body>
