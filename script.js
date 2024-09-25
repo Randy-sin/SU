@@ -201,34 +201,31 @@ document.addEventListener('DOMContentLoaded', function() {
                 <h3 class="section-title">競選目標</h3>
                 <p>Champions學生會的核心競選目標是實現"娛樂與學術兼並"，為我校學生創造一個充滿活力、創新與支持的校園環境。我們相信，學術與娛樂並非對立，而是可以相輔相成，讓學生在輕鬆愉的氛圍中，提升學習效果和全方位的成長。</p>
                 <h4 class="blue-text">1. 增強學術資源與支持</h4>
-                <p>我們將積極擴大學術資源，為同學們提供更豐富、更靈活的學習機會，包括與其他學校交換模擬考卷、設立"圖書館補習員"計劃，並引入"數學小鎮"活動，為常見學術問題提供實時解答，幫助同學們應對學習中的各種挑戰。</p>
+                <p>我們將積極擴大學術資源，為同學們提供更豐富、更靈活的學習機會，包括與其他學校交換模擬卷、設立"圖書館補習員"計劃，並引入"數學小鎮"活動，為常見學術問題提供實時解答，幫助同學們應對學習中的各種挑戰。</p>
                 <h4 class="blue-text">2. 促進娛樂與學術的結合</h4>
                 <p>我們將策劃一系列創新活動，讓同學們在娛樂中找到學術的樂趣。我們將舉辦學科比賽、校內外聯合文化活動，以及創意學習工作坊，讓學生們在參與中激發創造力，同時加強對學科知識的理解和應用。</p>
                 <h4 class="blue-text">3. 加強對外聯繫與合作</h4>
                 <p>Champions學生會將打破僅側重校內事務的傳統，積極促進對外交流與合作。我們將組織與其他學校的學術和文化交流活動，為同學們提供拓展視野、增強社會實踐能力的機會。同時，我們會與外部機構合作，引入更多升學和職業規劃指導，幫助同學們更好地為未來做準備</p>
                 <h4 class="blue-text">4. 提升校園歸屬感與學生權益</h4>
-                <p>我們將不斷完善校內設施，並在校園內推動更多關於學生權益的活動，使每一位同學都能感受到被重視和尊重。我們還將開展定期調查，傾聽同學們的需求與建議，確保學生會的每一項工作都切實服務於同學的利益。</p>
+                <p>我們將不斷改善校內設施，並在校園內推動更多關於學生權益的活動，使每一位同學都能感受到被重視和尊重。我們還將開展定期調查，傾聽同學們的需求與建議，確保學生會的每一項工作都切實服務於同學的利益。</p>
                 <p><strong>Champions學生會以<span class="blue-text">「探索Champions，成為Champions，超越Champions」</span>的精神，致力於在學術與娛樂中促進每位同學的成長，激發他們探索潛能、實現夢想並突破自我。</strong></p>
                 `;
             case 'news':
                 return '<h2><i class="fas fa-newspaper"></i> 最新消息</h2>' +
                     '<ul class="news-list">' +
                     '<li><h3>Champions！候選內閣宣傳活動即將開始</h3>' +
-                    '<p><i class="far fa-calendar-alt"></i> 日期：2023年9月25日</p>' +
+                    '<p><i class="far fa-calendar-alt"></i> 日期：2024年9月27日</p>' +
                     '<p>我們誠摯邀請所有同學參與 Champions！候選內閣的首次宣傳活動。屆時我們將介紹我們的理念、目標和計劃。讓我們一起探索如何為學校帶來積極的改變！</p></li>' +
-                    '<li><h3>第二輪宣傳活動</h3>' +
-                    '<p><i class="far fa-calendar-alt"></i> 日期：2023年10月2日</p>' +
-                    '<p>第二輪傳活動將更深入地介紹我們的體方案。我們將設立互動攤位，讓同們更好地了解我們的計劃，並收集大家的寶貴意見。</p></li>' +
                     '<li><h3>學生會選舉即將開始</h3>' +
-                    '<p><i class="far fa-calendar-alt"></i> 日期：2023年10月16日</p>' +
-                    '<p>學生會選舉將於10月16正式開始。我們鼓勵所有同學積極參與，為自己心目中的最佳候選內閣投下寶貴的一票。讓我們一起塑造學校的未來！</p></li>' +
+                    '<p><i class="far fa-calendar-alt"></i> 日期：2024年10月16日</p>' +
+                    '<p>學生會選舉將於10月16正式開始。我們鼓勵所有同學積極參與，為自己心目中的最佳候選內閣投下寶貴的一票。讓我們一起塑造學的未來！</p></li>' +
                     '</ul>';
             case 'events':
                 return `
                 <h2 style="margin-bottom: 1.5em;"><i class="fas fa-calendar-alt"></i> 活動計劃</h2>
                 <div class="event-list">
                     <div class="event-card">
-                        <h3>9月26號 – 宣傳期第一天</h3>
+                        <h3>9月27號 – 宣傳期第一天</h3>
                         <p><strong>活動主題：</strong>「探尋Champions!」 （Champions! Discovery Day）</p>
                         <p><strong>時間安排：</strong></p>
                         <ul>
@@ -236,15 +233,23 @@ document.addEventListener('DOMContentLoaded', function() {
                             <li>午息：進行「Champions!免費影即有體驗」、張貼海報。</li>
                             <li>放學後：在學校門口宣傳，follow IG，發放宣傳物品（糖）。</li>
                         </ul>
+                        <p class="countdown-container">
+                            <span class="countdown-label">倒計時：</span>
+                            <span class="countdown" data-target="2024-09-27">${calculateCountdown('2024-09-27')}</span>
+                        </p>
                     </div>
                     <div class="event-card">
-                        <h3>9月27號 – 宣傳期第二天</h3>
+                        <h3>9月28號 – 宣傳期第二天</h3>
                         <p><strong>活動主題：</strong>「Champions!傳奇揭幕」 （Champions! Legend Unveiled）</p>
                         <p><strong>時間安排：</strong></p>
                         <ul>
                             <li>上課前：宣傳、派發宣傳資、廣播介紹午息活動。</li>
                             <li>放學後：在校門口宣傳，follow IG，發放宣傳物品（糖、紙巾）。</li>
                         </ul>
+                        <p class="countdown-container">
+                            <span class="countdown-label">倒計時：</span>
+                            <span class="countdown" data-target="2024-09-28">${calculateCountdown('2024-09-28')}</span>
+                        </p>
                     </div>
                     <div class="event-card">
                         <h3>10月2號 – 宣傳期第三天</h3>
@@ -254,6 +259,10 @@ document.addEventListener('DOMContentLoaded', function() {
                             <li>上課前：禮堂播宣傳片、宣傳活。</li>
                             <li>午息：進行「三分戰神」挑戰，先在IG私信報名，挑戰成功的同學可以獲得Champions!紀念品和雪糕，並且進行合照，同時在SAC可以獲得「Champions!免費即影即有體驗」、張貼海報。</li>
                         </ul>
+                        <p class="countdown-container">
+                            <span class="countdown-label">倒計時：</span>
+                            <span class="countdown" data-target="2024-10-02">${calculateCountdown('2024-10-02')}</span>
+                        </p>
                     </div>
                     <div class="event-card">
                         <h3>10月3日 – 宣傳期第四天</h3>
@@ -264,6 +273,10 @@ document.addEventListener('DOMContentLoaded', function() {
                             <li>午息：舉辦「健康知識快問快，同答與運動或健康相關的小問題，答對的可獲得專屬筆或糖果。同時在SAC進行即影即有拍攝，並發放糖果和紙巾。</li>
                             <li>放學後：門口宣傳，follow IG，發放宣傳物品（糖果和紙巾），鼓勵大家參與接下來的活動。</li>
                         </ul>
+                        <p class="countdown-container">
+                            <span class="countdown-label">倒計時：</span>
+                            <span class="countdown" data-target="2024-10-03">${calculateCountdown('2024-10-03')}</span>
+                        </p>
                     </div>
                     <div class="event-card">
                         <h3>10月4號 – 宣傳期第五天</h3>
@@ -274,17 +287,25 @@ document.addEventListener('DOMContentLoaded', function() {
                             <li>午息：舉辦午間旋律」，可以邀請老師或者同學，可以點歌亦可以坐着聽歌、聊天。如果有同學有興趣可以上去唱歌，一起帶動氣氛。同時進行random dance隨機舞蹈。在SAC可以獲得「Champions!免費即影即有體驗」、派發宣傳品、發布寶遊戲的線索與點信息。</li>
                             <li>放學後在校門口宣傳，follow IG，發放宣傳物品（糖）。</li>
                         </ul>
+                        <p class="countdown-container">
+                            <span class="countdown-label">倒計時：</span>
+                            <span class="countdown" data-target="2024-10-04">${calculateCountdown('2024-10-04')}</span>
+                        </p>
                     </div>
                     <div class="event-card">
                         <h3>10月7號 – 宣傳期第六天</h3>
-                        <p><strong>���動主題：</strong>「Champions!尋寶遊戲」（Champions! Treasure Hunt）</p>
+                        <p><strong>動主題：</strong>「Champions!尋寶遊戲」（Champions! Treasure Hunt）</p>
                         <p><strong>時間安排：</strong></p>
                         <ul>
-                            <li>上課前：宣傳、派發宣傳物資、重申尋寶遊戲的線索與起點信息（全校學生可以自由參與）。</li>
+                            <li>上課前：宣傳、派發宣傳物資、重申尋寶遊戲的線索與起點信息（全校學生可以自由參與）</li>
                             <li>小息：繼續尋寶遊戲，並引導參與者在校園內不同地點尋找線索，解答問題。</li>
                             <li>午息：在操場進行random dance隨機舞蹈，邀請舞社的同學前來表演。</li>
                             <li>放學後：在學校門口宣傳，follow IG，發放宣傳物品（糖）。</li>
                         </ul>
+                        <p class="countdown-container">
+                            <span class="countdown-label">倒計時：</span>
+                            <span class="countdown" data-target="2024-10-07">${calculateCountdown('2024-10-07')}</span>
+                        </p>
                     </div>
                     <div class="event-card">
                         <h3>10月8日 宣傳期第七天</h3>
@@ -295,6 +316,10 @@ document.addEventListener('DOMContentLoaded', function() {
                             <li>午息：進行「趣味猜詞比賽」，學生會成員選擇一些與學生會、學校或流行文化相關的詞語，讓參與者進行猜詞遊戲。答對的同學可獲得筆或糖果。</li>
                             <li>放學後：門口宣傳，follow IG，發放筆、糖果和紙巾</li>
                         </ul>
+                        <p class="countdown-container">
+                            <span class="countdown-label">倒計時：</span>
+                            <span class="countdown" data-target="2024-10-08">${calculateCountdown('2024-10-08')}</span>
+                        </p>
                     </div>
                     <div class="event-card">
                         <h3>10月9日  宣傳期第八天</h3>
@@ -304,6 +329,10 @@ document.addEventListener('DOMContentLoaded', function() {
                             <li>上課前：派發投票指南和筆，介紹午息的學術對決活動。</li>
                             <li>放學後：門口宣傳，follow IG，發放糖果和紙巾，提醒同學積極參與接下來的投票。</li>
                         </ul>
+                        <p class="countdown-container">
+                            <span class="countdown-label">倒計時：</span>
+                            <span class="countdown" data-target="2024-10-09">${calculateCountdown('2024-10-09')}</span>
+                        </p>
                     </div>
                     <div class="event-card">
                         <h3>10月10號 – 宣傳期第九天</h3>
@@ -311,15 +340,19 @@ document.addEventListener('DOMContentLoaded', function() {
                         <p><strong>時間安排：</strong></p>
                         <ul>
                             <li>上課前：最終宣傳、派發宣傳物資。</li>
-                            <li>午息：在禮堂設置「Champions!攤位活動」，設置數學題目、中文詩詞、估歌仔，變成攤位，例如搭幾張枱凳，開中央咪宣傳。參與的同學可以獲得「Champions!免費即影即有體驗」</li>
+                            <li>午息：在禮堂設置「Champions!攤位活動」，設置數學題目、中文詩詞、估歌仔變成攤位，例如搭幾張枱凳，開中央咪宣傳。參與的同學可以獲得「Champions!免費即影即有體驗」</li>
                             <li>放學後：在學校門口宣傳，follow IG，發放宣傳物品（糖）。</li>
                         </ul>
+                        <p class="countdown-container">
+                            <span class="countdown-label">倒計時：</span>
+                            <span class="countdown" data-target="2024-10-10">${calculateCountdown('2024-10-10')}</span>
+                        </p>
                     </div>
                 </div>
                 `;
             case 'school-affairs':
                 return '<h2><i class="fas fa-school"></i> 校內事務</h2>' +
-                    '<p style="margin-bottom: 1.5em;">同學們應關心本校事務，學生會不僅是學生的代表，也應積極參與學校事務。Champions抱持開放態度，不僅為學生發聲，還鼓勵大家親自參與，詳如下：</p>' +
+                    '<p style="margin-bottom: 1.5em;">同學們應關心本校事務，學生會不僅是學生的代，也應積極參與學校事務。Champions抱持開放態度，不僅為學生發聲，還鼓勵大家親自參與，詳���下</p>' +
                     '<h3 class="blue-text" style="margin-top: 1.5em; margin-bottom: 1em;">i) 多元活動、動靜皆宜</h3>' +
                     '<p style="margin-bottom: 1.5em;">舉辦不同課外活動，包括：</p>' +
                     '<ol style="margin-bottom: 1.5em;">' +
@@ -415,7 +448,7 @@ document.addEventListener('DOMContentLoaded', function() {
                     '</div>' +
                     '<div class="member-card">' +
                     '<div class="member-position">康樂（規劃）</div>' +
-                    '<div class="member-name">5B 26 吳慧珍，5A 19 李詩凡</div>' +
+                    '<div class="member-name">5A 19 李詩凡<br>5B 26 吳慧珍</div>' +
                     '</div>' +
                     '<div class="member-card">' +
                     '<div class="member-position">文書</div>' +
@@ -423,11 +456,11 @@ document.addEventListener('DOMContentLoaded', function() {
                     '</div>' +
                     '<div class="member-card">' +
                     '<div class="member-position">宣傳</div>' +
-                    '<div class="member-name">2D 29 王雯雯，2A 17 林建希，5B 23 屈子强</div>' +
+                    '<div class="member-name">2A 17 林建希<br>2D 29 王雯雯<br>5A 17 林禮輝<br>5B 23 屈子强</div>' +
                     '</div>' +
                     '<div class="member-card">' +
                     '<div class="member-position">福利</div>' +
-                    '<div class="member-name">5C 15 李家宏，2D 32 周芷缘</div>' +
+                    '<div class="member-name">2D 32 周芷缘<br>5C 15 李家宏</div>' +
                     '</div>' +
                     '<div class="member-card">' +
                     '<div class="member-position">財政</div>' +
@@ -450,7 +483,10 @@ document.addEventListener('DOMContentLoaded', function() {
                 return '<h2><i class="fas fa-envelope"></i> 聯絡我們</h2>' +
                     '<p>我們非常重視您的意見和建議。如果您有任何問題或想法，請隨時與我們聯繫。</p>' +
                     '<div class="contact-info">' +
-                    '<p>Email：randyxian08@gmail.com</p>' +
+                    '<p>Email：' +
+                    '<a href="mailto:randyxian08@gmail.com" class="email-link">randyxian08@gmail.com</a>, ' +
+                    '<a href="mailto:yutangtang6@gmail.com" class="email-link">yutangtang6@gmail.com</a>' +
+                    '</p>' +
                     '<p>' +
                     '<a href="https://www.instagram.com/klss_champions" target="_blank" rel="noopener noreferrer"><i class="fab fa-instagram" style="font-size: 16px;"></i> Instagram：@klss_champions</a>' +
                     '</p>' +
@@ -567,4 +603,37 @@ document.addEventListener('DOMContentLoaded', function() {
             }
         }, 150);
     }
+
+    function calculateCountdown(targetDate) {
+        const now = new Date();
+        const target = new Date(targetDate);
+        const timeDiff = target - now;
+
+        if (timeDiff <= 0) {
+            return "該活動已結束！請期待接下來的活動！";
+        }
+
+        const days = Math.floor(timeDiff / (1000 * 60 * 60 * 24));
+        const hours = Math.floor((timeDiff % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+        const minutes = Math.floor((timeDiff % (1000 * 60 * 60)) / (1000 * 60));
+
+        return `距離開始還有${days}天${hours}時${minutes}分`;
+    }
+
+    // 添加一个函数来更新所有倒计时
+    function updateAllCountdowns() {
+        const countdowns = document.querySelectorAll('.countdown');
+        countdowns.forEach(countdown => {
+            const targetDate = countdown.getAttribute('data-target');
+            countdown.innerHTML = calculateCountdown(targetDate);
+        });
+    }
+
+    // 在页面加载完成后开始定期更新倒计时
+    document.addEventListener('DOMContentLoaded', function() {
+        // ... 现有的 DOMContentLoaded 代码 ...
+
+        // 每秒更新一次倒计时
+        setInterval(updateAllCountdowns, 1000);
+    });
 });
